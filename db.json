@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "id": "42020e04-a62b-4a9b-b6e9-bd28c089ca6e",
+      "title": "muhammed fahiz",
+      "status": true
+    },
+    {
+      "id": "cde078e9-7fe1-4fa7-a98a-a66d71630333",
+      "title": "book ticket for mumbai",
+      "status": true
+    },
+    {
+      "id": "0796fc33-236a-4c00-991f-8f945dd703cf",
+      "title": "visit uncle",
+      "status": false
+    },
+    {
+      "id": "681c637d-34d5-4711-a1d3-830897a1f203",
+      "title": "go to shop",
+      "status": true
+    },
+    {
+      "title": "hello",
+      "status": false,
+      "id": "InImZvX"
+    },
+    {
+      "title": "this is after thunk",
+      "status": false,
+      "id": "SjKiFai"
+    },
+    {
+      "title": "again hello",
+      "status": false,
+      "id": "a5Q9jHO"
+    },
+    {
+      "title": "hello again",
+      "status": false,
+      "id": "WY0Jntf"
+    }
+  ]
+}
